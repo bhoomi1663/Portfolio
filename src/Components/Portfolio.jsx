@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ai-generated-8846757_1280.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Landing Page",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A landing page is a standalone web page designed with a specific goal in mind, such as capturing leads, promoting a product, or encouraging a specific action. It is typically focused, clear, and optimized for conversions, with compelling content, a strong call to action, and minimal distractions to guide the user toward completing the desired objective..",
+    url: "https://github.com/bhoomi1663",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bhukkad",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Bhukkad is a vibrant and user-friendly food discovery website that helps users explore the best local eateries, read reviews, and find delicious meals nearby. With a focus on convenience and flavor, it makes food exploration easy and fun for all types of foodies..",
+    url: "https://github.com/bhoomi1663",
   },
 ];
 
